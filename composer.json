@@ -6,6 +6,7 @@
   ],
   "homepage": "https://github.com/406413214/aliyun-openapi-php-safe",
   "license": "MIT",
+
   "authors": [
     {
       "name": "xiawenqiang",
@@ -24,7 +25,6 @@
   },
   "extra": {
     "branch-alias": {
-
     }
   }
 }

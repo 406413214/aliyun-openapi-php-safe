@@ -2,6 +2,7 @@
 
 namespace Heroin\Aliyun\Wsgsvr;
 
+
 class WsgUtil {
 
     public static function aesCbcEncrypt($key, $iv, $input) {
